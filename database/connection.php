@@ -2,7 +2,7 @@
 
 $host = "127.0.0.1";
 $username = "root";
-$password = "behappy";
+$password = "";
 $database = "account";
 
 //Criando a conexão
